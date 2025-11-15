@@ -1,0 +1,222 @@
+Curso,Semestre,Disciplina
+Análise e Desenvolvimento de Sistemas EAD,1º Semestre,Lógica Matemática
+,,Lógica Computacional usando Python
+,,Arquitetura e Organização de Computadores
+,,Métodos Ágeis
+,,Modelagem de Banco de Dados e SQL
+,,Desenvolvimento de Sistemas com Python
+,2º Semestre,Programação Orientada a Objetos
+,,Estrutura de Dados e Implementação
+,,Engenharia de Software
+,,Garantia de Qualidade (Quality Assurance)
+,,Segurança Cibernética (Cyber Security)
+,,Rede de Computadores
+,3º Semestre,Design Web
+,,Programação Web para Front End
+,,Programação Web para Back End
+,,Desenvolvimento Mobile
+,,Desenvolvimento de Games
+,,Administração de Servidores e Data Center
+,4º Semestre,Ferramentas de Desenvolvimento e Cloud Computing
+,,"Arquiteturas Disruptivas: IOT, Big Data e IA"
+,,Design de Software Ágil
+,,Machine Learning & CHATBOT
+,,LIBRAS (Língua Brasileira de Sinais)
+,,Projeto Integrador I: Desenvolvimento de Aplicações
+,5º Semestre,Contêineres & Kubernetes (Eletiva)
+,,Ética Hacking e Ransomware (Eletiva)
+,,Forense Computacional e Perícias Digitais (Eletiva)
+,,DevOps em Nuvem: Orquestração de Contêineres (Eletiva)
+,,"Segurança, Recuperação de Desastres e Cloud Backup (Eletiva)"
+,,Projeto Integrador II: Solução de Sistemas
+,6º Semestre,Atividades Complementares em Desenvolvimento I
+,,Atividades Complementares em Desenvolvimento II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
+---,---,---
+Ciência de Dados EAD,1º Semestre,Lógica Matemática
+,,Lógica Computacional usando Python
+,,Estatística e Probabilidade para Data Science
+,,Modelagem de Banco de Dados e SQL
+,,Programação para Ciência de Dados (Python & R)
+,,Processamento e Coleta de Dados
+,2º Semestre,Bancos de Dados para Ciência de Dados
+,,Introdução ao Machine Learning
+,,Data Mining e Análise Preditiva
+,,Modelos Estatísticos Avançados
+,,Séries Temporais e Previsão
+,,Deep Learning e Redes Neurais
+,3º Semestre,Big Data e Computação Distribuída
+,,Engenharia de Dados e Pipelines
+,,Análise de Dados em Tempo Real
+,,Machine Learning Ops (MLOps)
+,,Explicação de Inteligência Artificial (XAI)
+,,Aplicações de Negócios e Tomada de Decisão
+,4º Semestre,Ética e Privacidade em Ciência de Dados
+,,Arquitetura e Organização de Computadores
+,,Métodos Ágeis
+,,Linguagens e Comunicação
+,,ESG: Sustentabilidade das Organizações
+,,Projeto Integrador I: Análise Exploratória
+,5º Semestre,Aprendizagem Não Supervisionada (Eletiva)
+,,LIBRAS (Língua Brasileira de Sinais) (Eletiva)
+,,Gestão da Diversidade e Políticas de Inclusão
+,,Ferramentas de Desenvolvimento e Cloud Computing
+,,Projeto Integrador II: Construção de Modelos
+,,Projeto Integrador III: Implantação de Soluções
+,6º Semestre,Atividades Complementares em Pesquisa I
+,,Atividades Complementares em Pesquisa II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
+---,---,---
+Computação em Nuvem EAD,1º Semestre,Lógica Matemática
+,,Lógica Computacional usando Python
+,,Arquitetura e Organização de Computadores
+,,Métodos Ágeis
+,,Fundamentos de DevOps e Automação
+,,Virtualização de Infraestrutura e Automação
+,2º Semestre,Infraestrutura como Código (IaC)
+,,Arquitetura de Computação em Nuvem
+,,Arquitetura Híbrida e Multicloud
+,,Serverless Computing e Microservices
+,,Programação em Nuvem
+,,Contêineres e Orquestração (Docker & Kubernetes)
+,3º Semestre,Redes e Conectividade em Nuvem
+,,Edge Computing e IOT na Nuvem
+,,Segurança em Nuvem
+,,Conformidade e Governança em Nuvem
+,,Gerenciamento de Identidade e Acesso (IAM)
+,,Estratégias de Backup e Recuperação de Desastres
+,4º Semestre,Monitoramento e Observabilidade em Nuvem
+,,Gerenciamento e Otimização de Custos em Nuvem
+,,Machine Learning na Nuvem
+,,ESG: Sustentabilidade das Organizações
+,,Computação em Nuvem para Big Data (Eletiva)
+,,Projeto Integrador I: Implementação Básica em Nuvem
+,5º Semestre,Arquitetura e Implementação de Redes em Nuvem
+,,Segurança Avançada de Aplicações em Nuvem
+,,Gerenciamento de Ambientes de Contêineres
+,,Otimização de Desempenho e Escalabilidade
+,,Projeto Integrador II: Soluções Híbridas
+,,Projeto Integrador III: DevOps na Prática
+,6º Semestre,Atividades Complementares em Infraestrutura I
+,,Atividades Complementares em Infraestrutura II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
+---,---,---
+Defesa Cibernética EAD,1º Semestre,Lógica Matemática
+,,Lógica Computacional usando Python
+,,Arquitetura e Organização de Computadores
+,,Fundamentos de Cibersegurança
+,,Rede de Computadores
+,,Segurança de Redes e Sistemas
+,2º Semestre,Segurança de Sistemas Operacionais
+,,Segurança em Nuvem
+,,Segurança de Sistemas Web e Aplicações
+,,Hacking Ético e Teste de Penetração
+,,Programação Segura e Codificação
+,,Engenharia Social e Técnicas de Exploração
+,3º Semestre,Inteligência de Ameaças e Monitoramento
+,,Estratégias Red Team & Blue Team
+,,Criptografia e Protocolos Seguros
+,,Forense Digital
+,,Gerenciamento de Incidentes e Resposta a Ataques
+,,Segurança de Infraestrutura Crítica
+,4º Semestre,"Governança, Risco e Conformidade (GRC)"
+,,Segurança Móvel e IoT
+,,Blockchain e Segurança de Dados
+,,IA Aplicada à Cibersegurança
+,,Métodos Ágeis
+,,Projeto Integrador I: Avaliação de Vulnerabilidades
+,5º Semestre,Desenvolvimento de Ferramentas e Cloud Computing
+,,Administração de Servidores e Data Center
+,,Modelagem de Banco de Dados e SQL
+,,Gestão da Diversidade e Políticas de Inclusão
+,,Linguagens e Comunicação
+,,ESG: Sustentabilidade das Organizações
+,6º Semestre,Atividades Complementares em Segurança I
+,,Atividades Complementares em Segurança II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
+---,---,---
+Gestão da Tecnologia da Informação EAD,1º Semestre,Lógica Matemática
+,,Lógica Computacional usando Python
+,,Arquitetura e Organização de Computadores
+,,Métodos Ágeis
+,,Modelagem de Banco de Dados e SQL
+,,Gerenciamento de Projetos e Governança de TI
+,2º Semestre,Gerenciamento de Infraestrutura de TI
+,,Gerenciamento Financeiro de TI
+,,Estratégia e Modelo de Negócios
+,,Liderança Exponencial
+,,Gestão Empresarial e E-Commerce
+,,Tecnologia Exponencial no Ambiente Corporativo
+,3º Semestre,Lei Eletrônica
+,,Digital Marketing e Social Media
+,,Business Intelligence e Analytics
+,,"Data Science, Machine Learning e Data Mining"
+,,Rede de Computadores
+,,Segurança Cibernética
+,4º Semestre,Administração de Servidores e Data Center
+,,Ferramentas de Desenvolvimento e Cloud Computing
+,,Engenharia de Software
+,,Garantia de Qualidade (Quality Assurance)
+,,"Apresentações, Documentos e Planilhas Básico"
+,,Projeto Integrador I: Planejamento de TI
+,5º Semestre,Forense Computacional e Perícias Digitais (Eletiva)
+,,Contêineres & Kubernetes (Eletiva)
+,,Ética Hacking e Ransomware (Eletiva)
+,,DevOps em Nuvem: Orquestração de Contêineres (Eletiva)
+,,"Segurança, Recuperação de Desastres e Cloud Backup (Eletiva)"
+,,Projeto Integrador II: Gestão de Projetos Ágeis
+,6º Semestre,Atividades Complementares em Gestão I
+,,Atividades Complementares em Gestão II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
+---,---,---
+Inteligência Artificial e Automação Digital,1º Semestre,Algoritmos e Lógica de Programação
+,,Fundamentos de IA com foco em IA Generativa I
+,,Fundamentos de IA com foco em IA Generativa II
+,,Fundamentos de No-Code e Low-Code
+,,Padrões Web para No-Code e Low-Code
+,,Banco de Dados Visual e Ferramentas Integradas
+,2º Semestre,Desenvolvimento de Aplicações Web Low Code I
+,,Desenvolvimento de Aplicações Web Low Code II
+,,Integração de API
+,,Automação de Processos e Workflows I
+,,Automação de Processos e Workflows II
+,,Desenvolvimento de Aplicações e Automações com Low Code
+,3º Semestre,IA Generativa Aplicada ao Desenvolvimento I
+,,IA Generativa Aplicada ao Desenvolvimento II
+,,IA Generativa Avançada
+,,Designface e Interação IUX (UX/UI)
+,,Métricas e Monitoramento de Aplicações Low Code
+,,Infraestrutura e Segurança para Low Code
+,4º Semestre,Metodologias Ágeis e Validação de Produtos
+,,Fundamentos de Gestão de Projetos
+,,Produtividade e Gestão de Tempo
+,,Resolução de Problemas e Pensamento Crítico
+,,Lógica de Programação Avançada
+,,Projeto Integrador I: Prototipagem Low Code
+,5º Semestre,Automação e Inteligência de Processos (BPM e RPA)
+,,Cloud Computing e Ferramentas Integradas
+,,Segurança e Compliance em Plataformas No/Low Code
+,,Tendências em Automação e IA
+,,Projeto Integrador II: Solução de Automação IA
+,,Projeto Integrador III: Entrega de Produto Mínimo Viável (MVP)
+,6º Semestre,Atividades Complementares em Inovação I
+,,Atividades Complementares em Inovação II
+,,Elaboração do TCC I
+,,Elaboração do TCC II
+,,Apresentação e Defesa do TCC
+,,Extensão Curricular (Experiência Prática)
